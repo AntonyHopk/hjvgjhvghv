@@ -67,7 +67,7 @@
         if (tg) {
             tg.HapticFeedback?.impactOccurred("medium");
             tg.showPopup?.({
-                title: "Для мамы ❤️",
+                title: "Для Тебя ❤️",
                 message:
                     "Пусть весна принесёт тебе счастье, лёгкость и много поводов улыбаться!",
                 buttons: [{type: "ok", text: "Спасибо"}],
